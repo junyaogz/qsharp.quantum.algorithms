@@ -1,6 +1,3 @@
-import qsharp
-from qsharp_widgets import EstimateDetails
-
 %%qsharp
 open Microsoft.Quantum.Arrays;
 open Microsoft.Quantum.Canon;
